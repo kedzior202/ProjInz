@@ -1,0 +1,161 @@
+body {
+		background-color:black;
+		margin-top:10px;
+		margin-left:auto;
+		margin-right:auto;
+		width:90%;
+		margin-bottom:10px;
+		list-style: none;
+    }
+
+div {
+        
+       	
+		margin-left:auto;
+		margin-right:auto;
+    }
+	
+	
+#menu {	
+		text-align:justify;
+		max-width:100%;
+		width:100%;
+		height:22px;
+		background: rgba (0, 128, 240, 0.9);
+		filter: alpha(opacity=50);
+		border:solid 2px;
+		border-top:solid #a9a9a9 1px;
+		border-bottom:solid #a9a9a9 1px;
+		border-color:white;
+		margin-top:10px;
+	}
+	
+#goraglowna {	
+		
+		font: verdana 18px;
+		max-width:100%;
+		width:100%;
+		height:40%;
+		border:solid 2px;
+		background: rgba (0, 128, 240, 0.9);
+		filter: alpha(opacity=50);
+		border-top:solid #a9a9a9 2px;
+		border-bottom:solid #a9a9a9 px;
+		border-color:white;
+		margin-top:10px;
+	}
+
+
+	
+#logogora {	
+		
+		max-width:100%;
+		width:100%;
+		height:40%;
+		border:solid 2px;
+		background:#483D8B;
+		filter: alpha(opacity=50);
+		border-top:solid #a9a9a9 2px;
+		border-bottom:solid #a9a9a9 px;
+		border-color:white;
+		margin-top:10px;
+	}
+
+#glowna {
+		font: white;
+		max-width:100%;
+		width:100%;
+		height:100%;
+		border:solid 2px;
+		border-top:solid #a9a9a9 2px;
+		border-bottom:solid #a9a9a9 px;
+		border-color:white;
+		margin-top:10px;
+		margin-bottom:10px;
+
+	}
+
+#pierwszywiersz {	
+		
+		color:white;
+		width:90%;
+		height:300px;
+		margin-top:10px;
+		margin-bottom:10px;
+		
+	}
+	
+
+#drugiwiersz{	
+		
+		color:white;
+		width:90%;
+		height:300px;
+		margin-top:10px;
+		margin-bottom:10px;
+		
+	}
+	
+	
+#trzeciwiersz{	
+		
+		color:white;
+		width:90%;
+		height:300px;
+		margin-top:10px;
+		margin-bottom:10px;
+		
+	}
+	
+
+	
+#kafelek1{
+
+		color:white;
+		width:40%;
+		height:80%;
+		float:left;
+		margin-top:30px;
+		margin-bottom:30px;
+		margin-left:100px;
+
+	}
+	
+
+#kafelek2{
+
+		color:white;
+		width:40%;
+		height:80%;
+		float:right;
+		margin-top:30px;
+		margin-bottom:30px;
+		margin-right:100px;
+
+	}
+	
+	
+#kafelek3{
+
+		color:white;
+		width:40%;
+		height:80%;
+		float:left;
+		margin-top:30px;
+		margin-bottom:30px;
+		margin-left:100px;
+
+	}
+	
+
+#kafelek4{
+
+		color:white;
+		width:40%;
+		height:80%;
+		float:right;
+		margin-top:30px;
+		margin-bottom:30px;
+		margin-right:100px;
+
+	}
